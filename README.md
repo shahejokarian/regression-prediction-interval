@@ -1,2 +1,2 @@
 # regression-prediction-interval
-predicting linear regression with prediction intervals 
+construct linear regression with prediction intervals 
